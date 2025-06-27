@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  hyperswitch-keymanager:
+  - apiVersion: v2
+    appVersion: 0.1.8
+    created: "2025-01-26T16:16:00.000000+05:30"
+    description: A Helm chart for deploying Hyperswitch Keymanager
+    digest: sha256:dummy
+    name: hyperswitch-keymanager
+    type: application
+    urls:
+    - hyperswitch-keymanager-0.2.0.tgz
+    version: 0.2.0
+generated: "2025-01-26T16:16:00.000000+05:30"
+
