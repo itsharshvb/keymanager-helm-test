@@ -48,7 +48,7 @@ entries:
     name: hyperswitch-app
     type: application
     urls:
-    - https://juspay.github.io/hyperswitch-helm/v0.2.5/charts/hyperswitch-app-0.2.5.tgz
+    - https://itsharshvb.github.io/keymanager-helm-test/helm-chart/hyperswitch-app-0.2.5.tgz
     version: 0.2.5
   hyperswitch-web:
   - apiVersion: v2
@@ -65,7 +65,7 @@ entries:
     name: hyperswitch-web
     type: application
     urls:
-    - https://juspay.github.io/hyperswitch-helm/v0.2.5/charts/hyperswitch-web-0.2.5.tgz
+    - https://itsharshvb.github.io/keymanager-helm-test/helm-chart/hyperswitch-web-0.2.5.tgz
     version: 0.2.5
   prometheus:
   - annotations:
@@ -128,6 +128,6 @@ entries:
     - https://github.com/kubernetes/kube-state-metrics
     type: application
     urls:
-    - https://juspay.github.io/hyperswitch-helm/v0.2.5/charts/prometheus-27.8.0.tgz
+    - https://itsharshvb.github.io/keymanager-helm-test/helm-chart/prometheus-0.2.5.tgz
     version: 27.8.0
 generated: "2025-06-30T22:53:23.881735+05:30"
