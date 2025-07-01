@@ -9,7 +9,7 @@ entries:
     name: hyperswitch-keymanager
     type: application
     urls:
-    - https://itsharshvb.github.io/keymanager-helm-test/hyperswitch-keymanager-0.2.0.tgz
+    - https://itsharshvb.github.io/keymanager-helm-test/hyperswitch-keymanager-0.1.0.tgz
     version: 0.2.0
 generated: "2025-01-26T16:16:00.000000+05:30"
 
